@@ -22,9 +22,12 @@ This Java-based application manages employee data using a PostgreSQL database. T
 ## Creating an employee:
 ![image](https://github.com/user-attachments/assets/50240065-9c1e-48b1-acdf-4cc4bc0d9811)
 
-![](https://github.com/user-attachments/assets/82628a93-a163-428f-b590-b48fc6a33649)
+![image](https://github.com/user-attachments/assets/ccecdc34-c4f2-493b-ae71-5ab016c52e15)
+
 
 ## Deleting an employee:
-![](https://github.com/user-attachments/assets/03cd433d-4298-4173-85ff-85768a7ca2c3)
-![](https://github.com/user-attachments/assets/49504458-2486-4f85-bb84-10167ecf1b23)
+![image](https://github.com/user-attachments/assets/faf545ec-8062-4e89-9249-6b9a0f64c10b)
+
+![image](https://github.com/user-attachments/assets/2a190a17-d904-46fc-85dc-82d7aea4a137)
+
 

@@ -19,3 +19,11 @@ This Java-based application manages employee data using a PostgreSQL database. T
 2. **Create the Database**:
    ```sql
    CREATE DATABASE employee_db;
+## Creating an employee:
+![](https://github.com/user-attachments/assets/3b6f6a70-6ab0-4391-89d2-eae0f656c62e)
+![](https://github.com/user-attachments/assets/82628a93-a163-428f-b590-b48fc6a33649)
+
+## Deleting an employee:
+![](https://github.com/user-attachments/assets/03cd433d-4298-4173-85ff-85768a7ca2c3)
+![](https://github.com/user-attachments/assets/49504458-2486-4f85-bb84-10167ecf1b23)
+
